@@ -1,4 +1,4 @@
-#Q2.py
+# 피보나치 수열에서의 합
 
 # def fib(n):
 #    if n == 0:
@@ -13,7 +13,7 @@
 # for i in fibbo:
 #    if i % 2 == 0:
 #       result += i
-    
+
 # print(result)
 
 a = 1
