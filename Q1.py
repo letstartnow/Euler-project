@@ -1,4 +1,4 @@
-#3,5 multiple.py
+#3과 5의 배수의 합
 
 result = 0
 for i in range(1,1000):
@@ -6,6 +6,3 @@ for i in range(1,1000):
         result += i
         
 print(result)
-
-
-    
